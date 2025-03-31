@@ -44,4 +44,4 @@ The motion detector and thermostat are key IoT devices in the network. The motio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Augustusen/konfiguriranje_racunalnih_servisa_i_mreza.git
+   git clone https://github.com/Augustusen/konfiguriranje-racunalnih-servisa-i-mreza.git
